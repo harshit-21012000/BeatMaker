@@ -1,0 +1,51 @@
+table {
+    width: 100%;
+
+}
+
+table,
+th,
+td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+#heading {
+    font-size: 40px;
+}
+
+#sum {
+    font-size: large;
+    font-weight: lighter;
+}
+
+#items {
+    background-color: aqua;
+    font-style: italic;
+}
+
+#qua {
+    background-color: coral;
+}
+
+#cost {
+    background-color: pink;
+}
+
+#pri {
+    background-color: blueviolet;
+}
+
+#img {
+    height: 10%;
+    width: 10%;
+}
+
+#pujju {
+    text-align: center;
+    background-color: aqua;
+}
